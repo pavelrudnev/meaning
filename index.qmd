@@ -1,0 +1,292 @@
+---
+author: 
+  name: Pavel Rudnev
+  email: prudnev@hse.ru
+  orcid: 0000-0001-8554-0943
+title: Introduction to the science of language 
+subtitle: Meaning
+format:
+  revealjs: 
+    theme: [custom.scss]
+    chalkboard: true
+    slide-number: true
+    menu: 
+      titleSelector: 'h1, h2'
+      useTextContentForMissingTitles: false 
+      hideMissingTitles: true
+filters: 
+  - interlinear
+slide-level: 2
+bibliography: ../teaching.bib
+csl: unified-style-linguistics.csl
+lang: en-GB
+rights: CC-by
+---
+
+## Recap so far
+
+## Today
+
+the meaning side of things
+
+- sentence meanings
+- word meanings
+- phrase meanings
+- challenges
+    - lexical ambiguity
+    - structural ambiguity
+    
+## Semantics ##
+
+  * study of the meaning of various linguistic units
+      * morphemes
+      * words
+      * phrases
+      * sentences
+  * let's examine these from the top down and then from the bottom up
+  
+## Sentence meanings ##
+
+How do we know what the sentence *A cat is sitting on a chair.* means?
+
+- we can distinguish situations truthfully described by this sentence from all others
+
+
+![‘A cat is sitting on a chair.’ by Midjourney; @Bylinina:2023](https://bylinina.github.io/ling_course/_images/cat_tc.png){.lightbox width=60% #fig-catonchair}
+
+→ **truth conditions** (NB: different from **truth**!)
+
+## Truth conditions ##
+
+  * given a sentence and a situation, we are typically able to conclude if the sentence is true in that situation
+      * this can be viewed as a function applying to an argument (or two arguments, to be precise)\
+	  ![The interpretation function *I* [@Bylinina:2023]](https://bylinina.github.io/ling_course/_images/proposition.png){ width=50% }
+      * or as a different interpretation function returning a set of pairings of situations and truth values\
+	  ![](https://bylinina.github.io/ling_course/_images/proposition2.png){ width=50% }
+      * more options are available (and have been explored in actual academic literature)
+
+## Truth values and truth conditions ##
+
+  * **truth value**: True or False — a property of a sentence *in a situation*
+  * **truth conditions**: the pattern of truth values across *all* situations — a property of the sentence itself
+      * *It is snowing in Moscow at 2pm on 23 November 2026.* — truth value depends on the situation
+      * *It is snowing or it is not snowing* — true in every situation, i.e. true by virtue of its truth conditions alone
+  * two sentences with the same truth conditions are **equivalent**, even if they don't look alike
+      * *A cat is sitting on a chair.* / *A chair is being sat on by a cat.*
+
+## Sentence meanings as sets of situations ##
+
+  * take the set of *all* possible situations
+  * a sentence picks out the subset in which it is true
+  * this makes logical relations *set-theoretic* relations:
+      * conjunction ≈ intersection
+      * disjunction ≈ union
+      * negation ≈ complement
+
+## More to sentence meaning than just truth conditions ##
+
+We can typically tell which statements follow from which other statements:
+
+> A cat is sitting on a chair.
+
+⇒ An animal is sitting on a chair.
+
+⇒ A cat is sitting on a piece of furniture.
+
+⇏ A cat is sitting on an old chair.
+
+⇏ A cat is sitting on the floor.
+
+. . . 
+
+::: {.callout-note}
+This is known as **entailment**.
+:::
+
+## Entailment as set inclusion ##
+
+  * $S_1$ entails $S_2$ iff every situation in which $S_1$ is true is also one in which $S_2$ is true
+  * in set terms: the situations of $S_1$ are a **subset** of the situations of $S_2$
+
+| relation | set-theoretic condition |
+|----------|--------------------------|
+| $S_1$ entails $S_2$ | $S_1 \subseteq S_2$ |
+| $S_1$ and $S_2$ equivalent | $S_1 = S_2$ |
+| $S_1$ and $S_2$ contradictory | $S_1 \cap S_2 = \emptyset$ |
+| $S_1$ and $S_2$ consistent | $S_1 \cap S_2 \neq \emptyset$ |
+
+  * check: does *All students passed* entail *Some students passed*? Are *All passed* and *No one passed* contradictory?
+
+## Beyond the actual world: possible situations/possible worlds {.allowframebreaks}
+
+
+> Is the sentence *Martha is a dog.* true or false?
+
+
+We don't know, since we haven't probably met Martha. So, we have to reason: in principle, Martha could be a surgeon, a dog, a penguin, a spider, a mammal etc.
+
+::: {style="text-align: center;"}
+![Possible situations](martha-is-a-dog){.lightbox #fig-marthadog width=40%}
+:::
+
+
+--------------
+
+Whatever turns out to be true in the actual world, we know that: 
+
+  * The set of situations in which Martha is a dog is a subset of the set of situations in which Martha is a mammal, 
+      * so the latter follows from the former
+  * If we know that Martha is a mammal, we can’t conclude that Martha is a cat or a dog – the Martha-mammal-situation set is a superset of Martha-dog/-cat
+
+## Truth conditions and possible situations ##
+
+### Direct vs. indirect interpretation ###
+
+  * sentence -- possible situation -- truth value\
+  $\rightarrow$ **direct interpretation**
+  * sentence -- logic/translation -- possible situation -- truth value\
+  $\rightarrow$ **indirect interpretation**
+
+## Lexical meaning ##
+
+We can represent the meanings of some words as corresponding to **sets** (in the mathematical sense) or **functions characterising those sets**.
+
+  * there are entities that are cats
+  * there are entities that are mammals
+  * set of dogs is a subset of the set of mammals
+  * set of cats is a subset of the set of mammals
+  * sets of dogs and cats are disjoint
+
+We can now connect situtations with entities:
+  
+  * If Martha is in the set of dogs in the actual situation, then the actual situation is in the set of Martha-is-a-dog possible situations.
+  
+## Meanings of nouns ##
+
+  * a common noun denotes a **set of entities**
+      * ⟦*cat*⟧ = the set of all cats
+      * ⟦*mammal*⟧ = the set of all mammals
+  * sets let us state lexical relations directly:
+      * ⟦*dog*⟧ $\subseteq$ ⟦*mammal*⟧ (hyponymy)
+      * ⟦*cat*⟧ $\cap$ ⟦*dog*⟧ $= \emptyset$ (disjointness)
+  * ⟦*the cat*⟧ picks out **the unique** entity in ⟦*cat*⟧ (when there is one)
+
+## Meanings of adjectives and verbs ##
+
+  * **adjectives** denote sets too — or functions from sets to sets
+      * ⟦*red*⟧ = the set of all red things
+      * *red car* $\rightarrow$ ⟦*red*⟧ $\cap$ ⟦*car*⟧
+      * *tall* is trickier: tall *for a jockey* $\neq$ tall *for a basketball player* — context-dependent
+  * **intransitive verbs** denote sets of entities
+      * ⟦*sleeps*⟧ = the set of all sleeping things
+  * **transitive verbs** denote **relations** — sets of ordered pairs
+      * ⟦*loves*⟧ = { ⟨$x$, $y$⟩ | $x$ loves $y$ }
+  * **determiners** relate two sets
+      * ⟦*every*⟧(⟦*cat*⟧)(⟦*sleeps*⟧) = True iff ⟦*cat*⟧ $\subseteq$ ⟦*sleeps*⟧  
+
+## Challenges
+
+While representing the meanings of sentences such as *Every cat sleeps* as well as nouns such as *cat* and verbs such as *sleep* in terms of sets is next to being trivial, some meanings are somewhat harder to capture.
+
+- what would the meaning of *every* be?
+
+## Words as functions ##
+
+  * the same meaning can be written as a set *or* as a **characteristic function**
+      * set: ⟦*cat*⟧ = { $x$ | $x$ is a cat }
+      * function: ⟦*cat*⟧ = $\lambda x.\, x$ is a cat $\rightarrow$ True/False
+  * this is the bridge to **function application** as the engine of composition:
+      * ⟦*sleeps*⟧(⟦*Martha*⟧) = True iff Martha $\in$ ⟦*sleeps*⟧
+  * verbs with more arguments = functions with more arguments
+      * ⟦*loves*⟧ = $\lambda y.\, \lambda x.\, x$ loves $y$
+      
+## Semantic relations between words ##
+
+We've read about various kinds of relations between one word and another:
+
+  * synonyms: opportunity/chance
+  * antonyms: low/high
+  * lexical ambiguity/polysemy: key1/key2/key3/…
+  * hyponyms \& hypernyms: dog/corgi
+  * no relation: mat/hieroglyph
+
+These can all be visualised as sets.
+
+## Compositionality: parts and wholes ##
+
+  * the meaning of a complex expression is determined by:
+      * the meanings of its parts, **and**
+      * the way those parts are syntactically combined
+  * ⟦*A cat is sitting on a chair.*⟧ = $f$(⟦*a*⟧, ⟦*cat*⟧, ⟦*is sitting*⟧, ⟦*on*⟧, ⟦*a*⟧, ⟦*chair*⟧, *structure*)
+  * why we care: finite vocabulary + finite rules $\rightarrow$ infinitely many understandable sentences
+  
+## Compositionality in action ##
+
+  * *Martha sleeps.*
+      * ⟦*Martha*⟧ = Martha
+      * ⟦*sleeps*⟧ = the set of sleeping things (type $\langle e, t \rangle$)
+      * ⟦*Martha sleeps*⟧ = True iff Martha $\in$ ⟦*sleeps*⟧
+  * *Every cat sleeps.*
+      * ⟦*every*⟧ = $\lambda A.\, \lambda B.\, A \subseteq B$
+      * ⟦*every cat sleeps*⟧ = ⟦*every*⟧(⟦*cat*⟧)(⟦*sleeps*⟧) = True iff ⟦*cat*⟧ $\subseteq$ ⟦*sleeps*⟧
+  * each step is **local**: meaning of the whole built from meanings of the parts, bottom up
+  
+## When compositionality is challenged ##
+
+  * **idioms** — *kick the bucket* $\neq$ kick + the + bucket
+      * response: store the idiom as a single lexical item
+  * **context dependence** — *It is raining.* (where?), *She is tall.* (compared to what?)
+      * response: meaning is a function from context to content
+
+##       
+      
+  * **ambiguity** — *Everyone loves someone.* 
+      * response: ambiguity lives in the *syntax*, not in composition itself
+  * **coercion / metonymy** — *John began the book.* (reading? writing?), *The ham sandwich wants a coffee.*
+      * response: type-shifting in the lexicon
+  * moral: compositionality is a **research strategy**, not a naive dogma — explain as much as you can compositionally, localise the rest
+  
+## Different structure, different meaning ##
+
+  * same words, different structure $\rightarrow$ different meaning
+      * *The cat chased the dog.* vs. *The dog chased the cat.*
+      * *old men and women* — (old men) and women vs. old (men and women)
+  * this is why we interpret **structures**, not strings
+
+
+## Scope: quantifiers ##
+
+  * *Everyone loves someone.*
+      * $\forall x\, \exists y.\, \text{loves}(x,y)$ — everyone has someone (possibly different people)
+      * $\exists y\, \forall x.\, \text{loves}(x,y)$ — there is one person whom everyone loves
+  * the same string, two **logical forms** — both are compositional, from different structures
+  * quantifier scope is fixed at a level of representation (**LF**) that the semantics interprets
+  * why this matters for data work: a natural-language query like *find all users who have a friend who likes coffee* has exactly this kind of ambiguity — disambiguate before you query
+  
+## Interpreting structures rather than strings ##
+
+  * strings are ambiguous; structures are not (or less so)
+  * the job of the syntax is to supply the structure; the job of the semantics is to interpret it
+  * compositionality is a claim about the **structure $\rightarrow$ meaning** mapping
+  
+
+
+## Exercise: semantics in pictures ##
+
+Given a table that groups Russian words by a principle symbolically shown in the second column:
+
+| group | diagram |
+|---|---|
+| *круг, кило, …* | ◐ |
+| *день, ночь, …* | ⊙ |
+| *грамотный, одетый, …* | ◔ |
+| *забытый, тьма, …* | ◕ |
+
+**Task 1.** What is the principle?
+
+**Task 2.** Assign each word to a group: *голый, живой, колонна, мертвый, остров, слепой, сфера, часовой*.
+
+**Task 3.** Which group does *месяц* belong to?  
+  
+## References
+

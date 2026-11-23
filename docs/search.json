@@ -1,0 +1,387 @@
+[
+  {
+    "objectID": "index.html#recap-so-far",
+    "href": "index.html#recap-so-far",
+    "title": "Introduction to the science of language",
+    "section": "Recap so far",
+    "text": "Recap so far"
+  },
+  {
+    "objectID": "index.html#today",
+    "href": "index.html#today",
+    "title": "Introduction to the science of language",
+    "section": "Today",
+    "text": "Today\nthe meaning side of things\n\nsentence meanings\nword meanings\nphrase meanings\nchallenges\n\nlexical ambiguity\nstructural ambiguity"
+  },
+  {
+    "objectID": "index.html#semantics",
+    "href": "index.html#semantics",
+    "title": "Introduction to the science of language",
+    "section": "Semantics",
+    "text": "Semantics\n\nstudy of the meaning of various linguistic units\n\nmorphemes\nwords\nphrases\nsentences\n\nlet’s examine these from the top down and then from the bottom up"
+  },
+  {
+    "objectID": "index.html#в-прошлый-раз",
+    "href": "index.html#в-прошлый-раз",
+    "title": "Introduction to the science of language",
+    "section": "В прошлый раз",
+    "text": "В прошлый раз\n\nсинтаксические отношения\n\nсестринство\nдоминирование\nс-командование\n\nроль с-командования для выявления правил употребления местоимений\nограничения на возможные структуры: тета-критерий\nсинтаксис нульместных, одноместных, двухместных и трёхместных глагольных групп\nструктура предложения\n\nCP &gt; TP &gt; vP &gt; VP"
+  },
+  {
+    "objectID": "index.html#сегодня",
+    "href": "index.html#сегодня",
+    "title": "Introduction to the science of language",
+    "section": "Сегодня",
+    "text": "Сегодня\n\nнеглагольные предикаты и тета-критерий\nещё об адъюнкции\nсинтаксические процессы: передвижение\nпорядок слов"
+  },
+  {
+    "objectID": "index.html#ap-np-pp-и-advp-как-предикаты",
+    "href": "index.html#ap-np-pp-и-advp-как-предикаты",
+    "title": "Introduction to the science of language",
+    "section": "AP, NP, PP и AdvP как предикаты",
+    "text": "AP, NP, PP и AdvP как предикаты\nРассмотрим пару безглагольных предложений:\n\n(1) \nИванов — врач.\n→ предикатом является N0 врач\n\n\n\n(2) \nИванов умён.\n→ предикатом является A0 умён\n\n\n\n(3) \nИванов в Москве.\n→ предикатом является P0 в\n\n\n\n(4) \nИванов наверху/дома.\n→ предикатом является Adv0 наверху/дома\n\n\nВ логике первого порядка подобные структуры обычно представляются в виде формул следующего вида, где «И» — константа/постоянная величина Иванов:\n\n(5) \nврач(И)\n\n\nРегулируются ли структуры такого типа тета-критерием?"
+  },
+  {
+    "objectID": "index.html#субъект-в-целом-обязателен",
+    "href": "index.html#субъект-в-целом-обязателен",
+    "title": "Introduction to the science of language",
+    "section": "Субъект в целом обязателен1",
+    "text": "Субъект в целом обязателен1\n\n(6) \n\na. \n*Врач.\n\n\n\nb. \n*Умён.\n\n\n\nc. \n*В Москве.\n\n\n\nd. \n*Наверху/дома.\n\n\n\n\n\nГипотеза\nПредложения (а–d) невозможны, т.к. нарушают тета-критерий: единственная тета-роль одноместного предиката остаётся неприсвоенной.\n\nСуществуют ли двухместные неглагольные предикаты, для которых также можно было бы показать нарушение тета-критерия?\nВ нейтральном контексте; возможны в непредикативном употреблении."
+  },
+  {
+    "objectID": "index.html#обязательные-аргументы-прилагательных",
+    "href": "index.html#обязательные-аргументы-прилагательных",
+    "title": "Introduction to the science of language",
+    "section": "Обязательные аргументы прилагательных",
+    "text": "Обязательные аргументы прилагательных\nНекоторые прилагательные и существительные способны принимать предложные группы в качестве дополнений:\n\n(7) \nWilliams is fond [PP of painting ].\n\n\n\nДанные PP-комплементы обязательны:\n\n(8) \n*Williams is fond.\n\n\n\n\nПодобные прилагательные существуют и в русском языке.\nсклонный\n\n(9) \n\na. \nНам нужны склонные к компромиссам сотрудники.\n\n\n\nb. \n*Нам нужны склонные сотрудники.\n\n\n\n\nпохож\n\n(10) \n\na. \nИванов похож на отца.\n\n\n\nb. \n*Иванов похож."
+  },
+  {
+    "objectID": "index.html#адъюнкция-к-x-и-xp",
+    "href": "index.html#адъюнкция-к-x-и-xp",
+    "title": "Introduction to the science of language",
+    "section": "Адъюнкция к X′ и XP",
+    "text": "Адъюнкция к X′ и XP"
+  },
+  {
+    "objectID": "index.html#возможные-и-невозможные-структуры",
+    "href": "index.html#возможные-и-невозможные-структуры",
+    "title": "Introduction to the science of language",
+    "section": "Возможные и невозможные структуры",
+    "text": "Возможные и невозможные структуры\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\n\n\n\nFigure 2\n\n\n\n\n\n\n\n\n\n\n\nFigure 3\n\n\n\n\n\n\n\n\n\n\n\nFigure 4\n\n\n\n\n\n\n\n\n\n\n\nFigure 5\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 6\n\n\n\n\n\n\n\n\n\n\n\nFigure 7\n\n\n\n\n\n\n\n\n\n\n\nFigure 8\n\n\n\n\n\n\n\n\n\n\n\nFigure 9\n\n\n\n\n\n\n\n\n\n\n\nFigure 10"
+  },
+  {
+    "objectID": "index.html#cложные-вершины",
+    "href": "index.html#cложные-вершины",
+    "title": "Introduction to the science of language",
+    "section": "Cложные вершины",
+    "text": "Cложные вершины\nИногда то, что мы по ряду причин хотим считать вершиной, состоит из нескольких «слов»:\n\nангл. in front of\nиз-за\nиз-под\n\nКаждый из этих элементов по отдельности может быть вершиной."
+  },
+  {
+    "objectID": "index.html#сложные-вершины-и-передвижение-глагола",
+    "href": "index.html#сложные-вершины-и-передвижение-глагола",
+    "title": "Introduction to the science of language",
+    "section": "Сложные вершины и передвижение глагола",
+    "text": "Сложные вершины и передвижение глагола\nВспомним, что финитный глагол в разных языках может произноситься в разных позициях:\n\nв v0 в русском и английском;\nв T0 в романских;\nв C0 в остальных германских.\n\nМы будем считать, что, передвигаясь из V0 в v0, глагол образует с v0 сложную вершину путём адъюнкции."
+  },
+  {
+    "objectID": "index.html#v0v0",
+    "href": "index.html#v0v0",
+    "title": "Introduction to the science of language",
+    "section": "V0+v0 = ?",
+    "text": "V0+v0 = ?"
+  },
+  {
+    "objectID": "index.html#несовпадение-позиций",
+    "href": "index.html#несовпадение-позиций",
+    "title": "Introduction to the science of language",
+    "section": "Несовпадение позиций",
+    "text": "Несовпадение позиций\nИногда составляющая произносится в одной позиции, а интерпретируется в другой:\n\nSpec,vP → Spec,TP\n\nНаши гости уже все ушли.\nJohn seems to be reading a book.\n\nпозиция вопросительных групп в прямых и косвенных вопросах\n\nWhat book does John seem to be reading __?\nMary wonders what book John seems to be reading __.\n\n\n\nК ним мы добавим пассивизацию, а также т.н. «свободный порядок слов» в русском."
+  },
+  {
+    "objectID": "index.html#свободный-порядок-слов",
+    "href": "index.html#свободный-порядок-слов",
+    "title": "Introduction to the science of language",
+    "section": "Свободный порядок слов",
+    "text": "Свободный порядок слов\n\n(12) \n\na. \nВчера я положил свою книгу на полку.\n\n\n\nb. \nЯ вчера положил свою книгу на полку.\n\n\n\nc. \nНа полку я вчера положил свою книгу.\n\n\n\nd. \nСвою книгу я вчера положил на полку.\n\n\n\n\nОднако\n\n(13) \n\na. \n*На я полку книгу вчера положил свою.\n\n\n\nb. \n*Свою на вчера книгу я полку положил.\n\n\n\n\n→ свободным является не порядок слов, а порядок составляющих"
+  },
+  {
+    "objectID": "index.html#передвижение-и-x-схема",
+    "href": "index.html#передвижение-и-x-схема",
+    "title": "Introduction to the science of language",
+    "section": "Передвижение и X′-схема",
+    "text": "Передвижение и X′-схема\nВспомним, что структуры, создаваемые передвижением, также соблюдают общие принципы построения словосочетаний.\nСледовательно, для каждой рассмотренной «конструкции»\n\nнам нужна вершина, инициирующая передвижение;\nгруппы будут передвигаться в её спецификатор\n\nC[?]\nC[top]\nC[foc]\n\n\n\n\n\n\n\n\n\nВнимание\n\n\nта же логика, что при передвижении подлежащего в Spec,TP"
+  },
+  {
+    "objectID": "index.html#wanna-contraction",
+    "href": "index.html#wanna-contraction",
+    "title": "Introduction to the science of language",
+    "section": "wanna-contraction",
+    "text": "wanna-contraction\nСравним следующие английские предложения:\n\n(14) \n\na. \nI want to help you.\n\n\n\nb. \nI wanna help you.\n\n\n\n\n\n(15) \n\na. \nWho do you want to help?\n\n\n\nb. \nWho do you wanna help?"
+  },
+  {
+    "objectID": "index.html#местоимения-и-усвоение-языка-leddon2006",
+    "href": "index.html#местоимения-и-усвоение-языка-leddon2006",
+    "title": "Introduction to the science of language",
+    "section": "Местоимения и усвоение языка (Leddon & Lidz 2006)",
+    "text": "Местоимения и усвоение языка (Leddon & Lidz 2006)\nАнтецедент рефлексива находится в области ближайшего подлежащего:\n\n(19) \n\na. \nNorbert remembered that Ellen painted a picture of herself.\n\n\n\nb. \n*Norbert remembered that Ellen painted a picture of himself.\n\n\n\nc. \nNorbert remembered that Ellen was very proud of herself.\n\n\n\nd. \n*Norbert remembered that Ellen was very proud of himself.\n\n\n\n\n\nДопустим, что ребёнок получает эти данные из языковой среды."
+  },
+  {
+    "objectID": "index.html#дополнительные-ограничения",
+    "href": "index.html#дополнительные-ограничения",
+    "title": "Introduction to the science of language",
+    "section": "Дополнительные ограничения",
+    "text": "Дополнительные ограничения\nОказывается, что сформулированное ограничение недостаточно строго:\n\n(20) \n\na. \nNorbert remembered which picture of herself Ellen painted.\n\n\n\nb. \nNorbert remembered which picture of himself Ellen painted.\n\n\n\nc. \nNorbert remembered how proud of herself Ellen was.\n\n\n\nd. \n*Norbert remembered how proud of himself Ellen was.\n\n\n\n\nКакие первичные языковые данные необходимы для усвоения данного контраста?"
+  },
+  {
+    "objectID": "index.html#leddon2006",
+    "href": "index.html#leddon2006",
+    "title": "Introduction to the science of language",
+    "section": "Leddon & Lidz (2006)",
+    "text": "Leddon & Lidz (2006)\nСтруктурно близкие предложения не встречаются в речи, направленной на детей:\n\n10000 частных вопросов (wh-questions) в базе данных Child Language Data Exchange System (CHILDES)\n0 вопросов с вопросительной группой, содержащей рефлексив/личное местоимение/имя\nаналогичный поиск в Гугле выдаёт только ссылки на лингвистические работы\n\n→ отсутствуют данные для формулировки обобщения"
+  },
+  {
+    "objectID": "index.html#predicate-internal-subject-hypothesis",
+    "href": "index.html#predicate-internal-subject-hypothesis",
+    "title": "Introduction to the science of language",
+    "section": "Predicate-internal subject hypothesis",
+    "text": "Predicate-internal subject hypothesis\nВсе аргументы получают тета-роли низко.\nЕщё раз рассмотрим интересующие нас примеры:\n\n(21) \n\na. \nNorbert remembered which picture of herself Ellen painted.\n\n\n\nb. \nNorbert remembered which picture of himself Ellen painted.\n\n\n\nc. \nNorbert remembered how proud of herself Ellen was.\n\n\n\nd. \n*Norbert remembered how proud of himself Ellen was.\n\n\n\n\nПредположим, что, подобно глагольным группам, предикат proud of himself/herself содержит невидимую копию подлежащего:\n\n(22) \n*Norbert remembered [how Ellen proud of himself] Ellen was.\n\n\nОпределённое сходство с непроизносимым, но грамматически активным глаголом в [VP [NP a pound] [V′ give [PP to Michael]]]"
+  },
+  {
+    "objectID": "index.html#свойства-передвижения",
+    "href": "index.html#свойства-передвижения",
+    "title": "Introduction to the science of language",
+    "section": "Свойства передвижения",
+    "text": "Свойства передвижения\n\nпередвигаются только целые составляющие\nрезультатом передвижения являются структуры, подчиняющиеся правилам теории проекции (X′)\nпередвижение происходит «вверх по дереву»\nпередвижение не добавляет в структуру новых элементов\nпередвижение не может пересекать границ некоторых объектов"
+  },
+  {
+    "objectID": "index.html#лингвистические-гамма-лучи",
+    "href": "index.html#лингвистические-гамма-лучи",
+    "title": "Introduction to the science of language",
+    "section": "Лингвистические «гамма-лучи»",
+    "text": "Лингвистические «гамма-лучи»\nДавайте рассмотрим одну метафору.\n\n\n\n\nПроникающая способность излучения, из WikimediaCommons"
+  },
+  {
+    "objectID": "index.html#неограниченность-вопросительного-выноса",
+    "href": "index.html#неограниченность-вопросительного-выноса",
+    "title": "Introduction to the science of language",
+    "section": "Неограниченность вопросительного выноса",
+    "text": "Неограниченность вопросительного выноса\nВопросительный вынос может быть локальным, т.е. происходить в пределах одного простого предложения:\n\n(23) \nHe was reading a book.\n\n\n\n(24) \nWhat was he reading __?"
+  },
+  {
+    "objectID": "index.html#неограниченность-в-вопросах",
+    "href": "index.html#неограниченность-в-вопросах",
+    "title": "Introduction to the science of language",
+    "section": "Неограниченность в вопросах",
+    "text": "Неограниченность в вопросах\nОдна граница клаузы:\n\n(25) \nHe said [ (that) he was reading a book].\n\n\n\n(26) \nWhat did he say [ (that) he was reading __ ]?"
+  },
+  {
+    "objectID": "index.html#но",
+    "href": "index.html#но",
+    "title": "Introduction to the science of language",
+    "section": "Но!",
+    "text": "Но!\nИногда вопросы просто кажутся невозможными:\n\n(37) \nHe made the claim [ that he has met Wolverine ]\n\n\n\n(38) \n*Who did he make the claim [ that he has met __]?\n\n\n\n(39) \nHe mentioned the fact [ that he had run into Magneto ]\n\n\n\n(40) \n*Who did he mention the fact [ that he had run into __]?\n\n\n\nЧто особенно поразительно, учитывая полную приемлемость следующего:\n\n(41) \nWho did he claim [ that he has met __ ]?\n\n\n\n(42) \nWho did he mention [ that he had run into __]?\n\n\nЧто здесь происходит?"
+  },
+  {
+    "objectID": "index.html#виды-островов",
+    "href": "index.html#виды-островов",
+    "title": "Introduction to the science of language",
+    "section": "Виды островов",
+    "text": "Виды островов\nТермин впервые употреблён в диссертации Ross (1967):\n\nконфигурации, из которых невозможно осуществить синтаксическое передвижение\nсильные и слабые острова"
+  },
+  {
+    "objectID": "index.html#сильные-острова",
+    "href": "index.html#сильные-острова",
+    "title": "Introduction to the science of language",
+    "section": "Сильные острова",
+    "text": "Сильные острова\nОграничение сложной именной группы\n\n(43) \nЯ видел соседей [которые купили машину]\n\n\n\n(44) \n*Машину я видел соседей [которые купили машину]\n(вынос невозможен)\n\n\nОграничение сочинённой структуры\n\n(45) \nОни купили [дачу и машину]\n\n\n\n(46) \n*Машину они купили [дачу и машину]\n\n\nНо:\n\n(47) \nДачу они купили [дачу и машину]\n\n\nпочему так можно?"
+  },
+  {
+    "objectID": "index.html#ограничение-сложной-именной-группы-1",
+    "href": "index.html#ограничение-сложной-именной-группы-1",
+    "title": "Introduction to the science of language",
+    "section": "Ограничение сложной именной группы",
+    "text": "Ограничение сложной именной группы\nСложная именная группа — именная группа, осложнённая собственным зависимым предложением — придаточным относительным либо аргументным.\n\n(48) \nутверждение, которое преподаватель старательно формулировал\n\n\n\n(49) \nутверждение, что человек произошёл от обезьяны\n\n\nРазберёмся, как это работает."
+  },
+  {
+    "objectID": "index.html#литература",
+    "href": "index.html#литература",
+    "title": "Introduction to the science of language",
+    "section": "Литература",
+    "text": "Литература\n\n\n\n\n\n\n\n\nLeddon, E. & J. Lidz. 2006. Reconstruction effects in child language. Proceedings of the 30th Boston University Conference on Language Development. Cambridge, MA: Cascadilla Press.\n\n\nRoss, John. 1967. Constraints on variables in syntax. Massachusetts Institute of Technology PhD thesis. http://dspace.mit.edu/handle/1721.1/15166."
+  },
+  {
+    "objectID": "index.html#sentence-meanings",
+    "href": "index.html#sentence-meanings",
+    "title": "Introduction to the science of language",
+    "section": "Sentence meanings",
+    "text": "Sentence meanings\nHow do we know what the sentence A cat is sitting on a chair. means?\n\nwe can distinguish situations truthfully described by this sentence from all others\n\n\n\n\n\n\n\nFigure 1: ‘A cat is sitting on a chair.’ by Midjourney; Bylinina (2023)\n\n\n\n→ truth conditions (NB: different from truth!)"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Introduction to the science of language",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\nBylinina, Lisa. 2023. Lecture notes: Linguistics for language technology. Groningen, Netherlands: https://bylinina.github.io/ling_course/."
+  },
+  {
+    "objectID": "index.html#truth-conditions",
+    "href": "index.html#truth-conditions",
+    "title": "Introduction to the science of language",
+    "section": "Truth conditions",
+    "text": "Truth conditions\n\ngiven a sentence and a situation, we are typically able to conclude if the sentence is true in that situation\n\nthis can be viewed as a function applying to an argument (or two arguments, to be precise)\n\nor as a different interpretation function returning a set of pairings of situations and truth values\n\nmore options are available (and have been explored in actual academic literature)"
+  },
+  {
+    "objectID": "index.html#truth-values-and-truth-conditions",
+    "href": "index.html#truth-values-and-truth-conditions",
+    "title": "Introduction to the science of language",
+    "section": "Truth values and truth conditions",
+    "text": "Truth values and truth conditions\n\ntruth value: True or False — a property of a sentence in a situation\ntruth conditions: the pattern of truth values across all situations — a property of the sentence itself\n\nIt is snowing in Moscow at 2pm on 23 November 2026. — truth value depends on the situation\nIt is snowing or it is not snowing — true in every situation, i.e. true by virtue of its truth conditions alone\n\ntwo sentences with the same truth conditions are equivalent, even if they don’t look alike\n\nA cat is sitting on a chair. / A chair is being sat on by a cat."
+  },
+  {
+    "objectID": "index.html#sentence-meanings-as-sets-of-situations",
+    "href": "index.html#sentence-meanings-as-sets-of-situations",
+    "title": "Introduction to the science of language",
+    "section": "Sentence meanings as sets of situations",
+    "text": "Sentence meanings as sets of situations\n\ntake the set of all possible situations\na sentence picks out the subset in which it is true\nthis makes logical relations set-theoretic relations:\n\nconjunction ≈ intersection\ndisjunction ≈ union\nnegation ≈ complement"
+  },
+  {
+    "objectID": "index.html#more-to-sentence-meaning-than-just-truth-conditions",
+    "href": "index.html#more-to-sentence-meaning-than-just-truth-conditions",
+    "title": "Introduction to the science of language",
+    "section": "More to sentence meaning than just truth conditions",
+    "text": "More to sentence meaning than just truth conditions\nWe can typically tell which statements follow from which other statements:\n\nA cat is sitting on a chair.\n\n⇒ An animal is sitting on a chair.\n⇒ A cat is sitting on a piece of furniture.\n⇏ A cat is sitting on an old chair.\n⇏ A cat is sitting on the floor.\n\n\n\n\n\n\n\nNote\n\n\nThis is known as entailment."
+  },
+  {
+    "objectID": "index.html#entailment-as-set-inclusion",
+    "href": "index.html#entailment-as-set-inclusion",
+    "title": "Introduction to the science of language",
+    "section": "Entailment as set inclusion",
+    "text": "Entailment as set inclusion\n\n\\(S_1\\) entails \\(S_2\\) iff every situation in which \\(S_1\\) is true is also one in which \\(S_2\\) is true\nin set terms: the situations of \\(S_1\\) are a subset of the situations of \\(S_2\\)\n\n\n\n\nrelation\nset-theoretic condition\n\n\n\n\n\\(S_1\\) entails \\(S_2\\)\n\\(S_1 \\subseteq S_2\\)\n\n\n\\(S_1\\) and \\(S_2\\) equivalent\n\\(S_1 = S_2\\)\n\n\n\\(S_1\\) and \\(S_2\\) contradictory\n\\(S_1 \\cap S_2 = \\emptyset\\)\n\n\n\\(S_1\\) and \\(S_2\\) consistent\n\\(S_1 \\cap S_2 \\neq \\emptyset\\)\n\n\n\n\ncheck: does All students passed entail Some students passed? Are All passed and No one passed contradictory?"
+  },
+  {
+    "objectID": "index.html#beyond-the-actual-world-possible-situationspossible-worlds",
+    "href": "index.html#beyond-the-actual-world-possible-situationspossible-worlds",
+    "title": "Introduction to the science of language",
+    "section": "Beyond the actual world: possible situations/possible worlds",
+    "text": "Beyond the actual world: possible situations/possible worlds\n\nIs the sentence Martha is a dog. true or false?\n\nWe don’t know, since we haven’t probably met Martha. So, we have to reason: in principle, Martha could be a surgeon, a dog, a penguin, a spider, a mammal etc.\n\n\n\n\n\n\n\nFigure 2: Possible situations"
+  },
+  {
+    "objectID": "index.html#truth-conditions-and-possible-situations",
+    "href": "index.html#truth-conditions-and-possible-situations",
+    "title": "Introduction to the science of language",
+    "section": "Truth conditions and possible situations",
+    "text": "Truth conditions and possible situations\nDirect vs. indirect interpretation\n\nsentence – possible situation – truth value\n\\(\\rightarrow\\) direct interpretation\nsentence – logic/translation – possible situation – truth value\n\\(\\rightarrow\\) indirect interpretation"
+  },
+  {
+    "objectID": "index.html#lexical-meaning",
+    "href": "index.html#lexical-meaning",
+    "title": "Introduction to the science of language",
+    "section": "Lexical meaning",
+    "text": "Lexical meaning\nWe can represent the meanings of some words as corresponding to sets (in the mathematical sense) or functions characterising those sets.\n\nthere are entities that are cats\nthere are entities that are mammals\nset of dogs is a subset of the set of mammals\nset of cats is a subset of the set of mammals\nsets of dogs and cats are disjoint\n\nWe can now connect situtations with entities:\n\nIf Martha is in the set of dogs in the actual situation, then the actual situation is in the set of Martha-is-a-dog possible situations."
+  },
+  {
+    "objectID": "index.html#meanings-of-nouns",
+    "href": "index.html#meanings-of-nouns",
+    "title": "Introduction to the science of language",
+    "section": "Meanings of nouns",
+    "text": "Meanings of nouns\n\na common noun denotes a set of entities\n\n⟦cat⟧ = the set of all cats\n⟦mammal⟧ = the set of all mammals\n\nsets let us state lexical relations directly:\n\n⟦dog⟧ \\(\\subseteq\\) ⟦mammal⟧ (hyponymy)\n⟦cat⟧ \\(\\cap\\) ⟦dog⟧ \\(= \\emptyset\\) (disjointness)\n\n⟦the cat⟧ picks out the unique entity in ⟦cat⟧ (when there is one)"
+  },
+  {
+    "objectID": "index.html#meanings-of-adjectives-and-verbs",
+    "href": "index.html#meanings-of-adjectives-and-verbs",
+    "title": "Introduction to the science of language",
+    "section": "Meanings of adjectives and verbs",
+    "text": "Meanings of adjectives and verbs\n\nadjectives denote sets too — or functions from sets to sets\n\n⟦red⟧ = the set of all red things\nred car \\(\\rightarrow\\) ⟦red⟧ \\(\\cap\\) ⟦car⟧\ntall is trickier: tall for a jockey \\(\\neq\\) tall for a basketball player — context-dependent\n\nintransitive verbs denote sets of entities\n\n⟦sleeps⟧ = the set of all sleeping things\n\ntransitive verbs denote relations — sets of ordered pairs\n\n⟦loves⟧ = { ⟨\\(x\\), \\(y\\)⟩ | \\(x\\) loves \\(y\\) }\n\ndeterminers relate two sets\n\n⟦every⟧(⟦cat⟧)(⟦sleeps⟧) = True iff ⟦cat⟧ \\(\\subseteq\\) ⟦sleeps⟧"
+  },
+  {
+    "objectID": "index.html#challenges",
+    "href": "index.html#challenges",
+    "title": "Introduction to the science of language",
+    "section": "Challenges",
+    "text": "Challenges\nWhile representing the meanings of sentences such as Every cat sleeps as well as nouns such as cat and verbs such as sleep in terms of sets is next to being trivial, some meanings are somewhat harder to capture.\n\nwhat would the meaning of every be?"
+  },
+  {
+    "objectID": "index.html#words-as-functions",
+    "href": "index.html#words-as-functions",
+    "title": "Introduction to the science of language",
+    "section": "Words as functions",
+    "text": "Words as functions\n\nthe same meaning can be written as a set or as a characteristic function\n\nset: ⟦cat⟧ = { \\(x\\) | \\(x\\) is a cat }\nfunction: ⟦cat⟧ = \\(\\lambda x.\\, x\\) is a cat \\(\\rightarrow\\) True/False\n\nthis is the bridge to function application as the engine of composition:\n\n⟦sleeps⟧(⟦Martha⟧) = True iff Martha \\(\\in\\) ⟦sleeps⟧\n\nverbs with more arguments = functions with more arguments\n\n⟦loves⟧ = \\(\\lambda y.\\, \\lambda x.\\, x\\) loves \\(y\\)"
+  },
+  {
+    "objectID": "index.html#semantic-relations-between-words",
+    "href": "index.html#semantic-relations-between-words",
+    "title": "Introduction to the science of language",
+    "section": "Semantic relations between words",
+    "text": "Semantic relations between words\nWe’ve read about various kinds of relations between one word and another:\n\nsynonyms: opportunity/chance\nantonyms: low/high\nlexical ambiguity/polysemy: key1/key2/key3/…\nhyponyms & hypernyms: dog/corgi\nno relation: mat/hieroglyph\n\nThese can all be visualised as sets."
+  },
+  {
+    "objectID": "index.html#compositionality-parts-and-wholes",
+    "href": "index.html#compositionality-parts-and-wholes",
+    "title": "Introduction to the science of language",
+    "section": "Compositionality: parts and wholes",
+    "text": "Compositionality: parts and wholes\n\nthe meaning of a complex expression is determined by:\n\nthe meanings of its parts, and\nthe way those parts are syntactically combined\n\n⟦A cat is sitting on a chair.⟧ = \\(f\\)(⟦a⟧, ⟦cat⟧, ⟦is sitting⟧, ⟦on⟧, ⟦a⟧, ⟦chair⟧, structure)\nwhy we care: finite vocabulary + finite rules \\(\\rightarrow\\) infinitely many understandable sentences"
+  },
+  {
+    "objectID": "index.html#compositionality-in-action",
+    "href": "index.html#compositionality-in-action",
+    "title": "Introduction to the science of language",
+    "section": "Compositionality in action",
+    "text": "Compositionality in action\n\nMartha sleeps.\n\n⟦Martha⟧ = Martha\n⟦sleeps⟧ = the set of sleeping things (type \\(\\langle e, t \\rangle\\))\n⟦Martha sleeps⟧ = True iff Martha \\(\\in\\) ⟦sleeps⟧\n\nEvery cat sleeps.\n\n⟦every⟧ = \\(\\lambda A.\\, \\lambda B.\\, A \\subseteq B\\)\n⟦every cat sleeps⟧ = ⟦every⟧(⟦cat⟧)(⟦sleeps⟧) = True iff ⟦cat⟧ \\(\\subseteq\\) ⟦sleeps⟧\n\neach step is local: meaning of the whole built from meanings of the parts, bottom up"
+  },
+  {
+    "objectID": "index.html#when-compositionality-is-challenged",
+    "href": "index.html#when-compositionality-is-challenged",
+    "title": "Introduction to the science of language",
+    "section": "When compositionality is challenged",
+    "text": "When compositionality is challenged\n\nidioms — kick the bucket \\(\\neq\\) kick + the + bucket\n\nresponse: store the idiom as a single lexical item\n\ncontext dependence — It is raining. (where?), She is tall. (compared to what?)\n\nresponse: meaning is a function from context to content"
+  },
+  {
+    "objectID": "index.html#different-structure-different-meaning",
+    "href": "index.html#different-structure-different-meaning",
+    "title": "Introduction to the science of language",
+    "section": "Different structure, different meaning",
+    "text": "Different structure, different meaning\n\nsame words, different structure \\(\\rightarrow\\) different meaning\n\nThe cat chased the dog. vs. The dog chased the cat.\nold men and women — (old men) and women vs. old (men and women)\n\nthis is why we interpret structures, not strings"
+  },
+  {
+    "objectID": "index.html#scope-negation",
+    "href": "index.html#scope-negation",
+    "title": "Introduction to the science of language",
+    "section": "Scope: negation",
+    "text": "Scope: negation\n\nThe king of France is not bald.\n\nwide scope: \\(\\neg\\)(the king of France is bald) — denies the whole claim; presupposes there is a king\nnarrow scope: the king of France is (not-bald) — ascribes non-baldness; still presupposes a king\n\nEveryone didn’t come.\n\n\\(\\neg \\forall x.\\, \\text{came}(x)\\) — not everyone came (some didn’t)\n\\(\\forall x.\\, \\neg \\text{came}(x)\\) — nobody came\n\nscope = which operator takes which other operator in its argument; surface order is a clue, not a guarantee"
+  },
+  {
+    "objectID": "index.html#scope-quantifiers",
+    "href": "index.html#scope-quantifiers",
+    "title": "Introduction to the science of language",
+    "section": "Scope: quantifiers",
+    "text": "Scope: quantifiers\n\nEveryone loves someone.\n\n\\(\\forall x\\, \\exists y.\\, \\text{loves}(x,y)\\) — everyone has someone (possibly different people)\n\\(\\exists y\\, \\forall x.\\, \\text{loves}(x,y)\\) — there is one person whom everyone loves\n\nthe same string, two logical forms — both are compositional, from different structures\nquantifier scope is fixed at a level of representation (LF) that the semantics interprets\nwhy this matters for data work: a natural-language query like find all users who have a friend who likes coffee has exactly this kind of ambiguity — disambiguate before you query"
+  },
+  {
+    "objectID": "index.html#interpreting-structures-rather-than-strings",
+    "href": "index.html#interpreting-structures-rather-than-strings",
+    "title": "Introduction to the science of language",
+    "section": "Interpreting structures rather than strings",
+    "text": "Interpreting structures rather than strings\n\nstrings are ambiguous; structures are not (or less so)\nthe job of the syntax is to supply the structure; the job of the semantics is to interpret it\ncompositionality is a claim about the structure \\(\\rightarrow\\) meaning mapping"
+  },
+  {
+    "objectID": "index.html#warm-up-semantics-in-pictures",
+    "href": "index.html#warm-up-semantics-in-pictures",
+    "title": "Introduction to the science of language",
+    "section": "Warm-up: semantics in pictures",
+    "text": "Warm-up: semantics in pictures\nGiven a table that groups Russian words by a principle symbolically shown in the second column:\n\n\n\ngroup\ndiagram\n\n\n\n\nкруг, кило, …\n◐\n\n\nдень, ночь, …\n⊙\n\n\nграмотный, одетый, …\n◔\n\n\nзабытый, тьма, …\n◕\n\n\n\nTask 1. What is the principle?\nTask 2. Assign each word to a group: голый, живой, колонна, мертвый, остров, слепой, сфера, часовой.\nTask 3. Which group does месяц belong to?\n\n\n\n\n\n\n\n\nBylinina, Lisa. 2023. Lecture notes: Linguistics for language technology. Groningen, Netherlands: https://bylinina.github.io/ling_course/."
+  },
+  {
+    "objectID": "index.html#exercise-semantics-in-pictures",
+    "href": "index.html#exercise-semantics-in-pictures",
+    "title": "Introduction to the science of language",
+    "section": "Exercise: semantics in pictures",
+    "text": "Exercise: semantics in pictures\nGiven a table that groups Russian words by a principle symbolically shown in the second column:\n\n\n\ngroup\ndiagram\n\n\n\n\nкруг, кило, …\n◐\n\n\nдень, ночь, …\n⊙\n\n\nграмотный, одетый, …\n◔\n\n\nзабытый, тьма, …\n◕\n\n\n\nTask 1. What is the principle?\nTask 2. Assign each word to a group: голый, живой, колонна, мертвый, остров, слепой, сфера, часовой.\nTask 3. Which group does месяц belong to?"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Introduction to the science of language",
+    "section": "",
+    "text": "ambiguity — Everyone loves someone.\n\nresponse: ambiguity lives in the syntax, not in composition itself\n\ncoercion / metonymy — John began the book. (reading? writing?), The ham sandwich wants a coffee.\n\nresponse: type-shifting in the lexicon\n\nmoral: compositionality is a research strategy, not a naive dogma — explain as much as you can compositionally, localise the rest"
+  }
+]
