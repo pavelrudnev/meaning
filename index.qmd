@@ -25,6 +25,15 @@ rights: CC-by
 
 ## Recap so far
 
+- units of language of varying complexity
+    - morphemes
+    - words
+    - phrases
+    - sentences
+    - utterances
+- all of them have meanings
+- but what is meaning, really?
+
 ## Today
 
 the meaning side of things
