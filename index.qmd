@@ -278,7 +278,7 @@ These can all be visualised as sets.
   * the job of the syntax is to supply the structure; the job of the semantics is to interpret it
   * compositionality is a claim about the **structure $\rightarrow$ meaning** mapping
   
-
+<!--
 
 ## Exercise: semantics in pictures ##
 
@@ -296,6 +296,8 @@ Given a table that groups Russian words by a principle symbolically shown in the
 **Task 2.** Assign each word to a group: *голый, живой, колонна, мертвый, остров, слепой, сфера, часовой*.
 
 **Task 3.** Which group does *месяц* belong to?  
+
+-->
   
 ## References
 
